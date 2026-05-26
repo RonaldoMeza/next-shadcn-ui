@@ -92,4 +92,4 @@ Una vez iniciado el servidor, acceda a:
 - **Carga**: Spinner de carga visible durante las acciones de simulación.
 
 ## Autor
-**Diego Meza** - Estudiante de Desarrollo de Aplicaciones Web Avanzado.
+**Ronaldo Meza Pastrana** - Estudiante de Desarrollo de Aplicaciones Web Avanzado.
